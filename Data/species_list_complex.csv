@@ -1,0 +1,124 @@
+Value,Sci name,Common name,type
+Acris crepitans_Northern Cricket Frog,Acris crepitans,Northern Cricket Frog,amphibian
+Anaxyrus americanus_American Toad,Anaxyrus americanus,American Toad,amphibian
+Anaxyrus fowleri_Fowler's Toad,Anaxyrus fowleri,Fowler's Toad,amphibian
+Dryophytes versicolor_Gray Treefrog,Dryophytes versicolor,Gray Treefrog,amphibian
+Lithobates catesbeianus_American Bullfrog,Lithobates catesbeianus,American Bullfrog,amphibian
+Lithobates clamitans_Green Frog,Lithobates clamitans,Green Frog,amphibian
+Lithobates palustris_Pickerel Frog,Lithobates palustris,Pickerel Frog,amphibian
+Lithobates sylvaticus_Wood Frog,Lithobates sylvaticus,Wood Frog,amphibian
+Pseudacris crucifer_Spring Peeper,Pseudacris crucifer,Spring Peeper,amphibian
+Scaphiopus holbrookii_Eastern Spadefoot,Scaphiopus holbrookii,Eastern Spadefoot,amphibian
+Pseudacris triseriata_Western Chorus Frog,Pseudacris triseriata,Western Chorus Frog,amphibian
+Lithobates septentrionalis_Mink Frog,Lithobates septentrionalis,Mink Frog,amphibian
+Lithobates pipiens_Northern Leopard Frog,Lithobates pipiens,Northern Leopard Frog,amphibian
+Human vocal_Human vocal,Human vocal,Human vocal,anthropogenic
+Human non-vocal_Human non-vocal,Human non-vocal,Human non-vocal,anthropogenic
+Human whistle_Human whistle,Human whistle,Human whistle,anthropogenic
+Power tools_Power tools,Power tools,Power tools,anthropogenic
+Siren_Siren,Siren,Siren,anthropogenic
+Engine_Engine,Engine,Engine,anthropogenic
+Gun_Gun,Gun,Gun,anthropogenic
+Fireworks_Fireworks,Fireworks,Fireworks,anthropogenic
+Noise_Noise,Noise,Noise,anthropogenic
+Poecile atricapillus_Black-capped Chickadee,Poecile atricapillus,Black-capped Chickadee,bird
+Corvus brachyrhynchos_American Crow,Corvus brachyrhynchos,American Crow,bird
+Turdus migratorius_American Robin,Turdus migratorius,American Robin,bird
+Agelaius phoeniceus_Red-winged Blackbird,Agelaius phoeniceus,Red-winged Blackbird,bird
+Branta canadensis_Canada Goose,Branta canadensis,Canada Goose,bird
+Quiscalus quiscula_Common Grackle,Quiscalus quiscula,Common Grackle,bird
+Melospiza melodia_Song Sparrow,Melospiza melodia,Song Sparrow,bird
+Cyanocitta cristata_Blue Jay,Cyanocitta cristata,Blue Jay,bird
+Junco hyemalis_Dark-eyed Junco,Junco hyemalis,Dark-eyed Junco,bird
+Anas platyrhynchos_Mallard,Anas platyrhynchos,Mallard,bird
+Zenaida macroura_Mourning Dove,Zenaida macroura,Mourning Dove,bird
+Dryobates pubescens_Downy Woodpecker,Dryobates pubescens,Downy Woodpecker,bird
+Sturnus vulgaris_European Starling,Sturnus vulgaris,European Starling,bird
+Spinus tristis_American Goldfinch,Spinus tristis,American Goldfinch,bird
+Sitta canadensis_Red-breasted Nuthatch,Sitta canadensis,Red-breasted Nuthatch,bird
+Dryobates villosus_Hairy Woodpecker,Dryobates villosus,Hairy Woodpecker,bird
+Larus delawarensis_Ring-billed Gull,Larus delawarensis,Ring-billed Gull,bird
+Corvus corax_Common Raven,Corvus corax,Common Raven,bird
+Sitta carolinensis_White-breasted Nuthatch,Sitta carolinensis,White-breasted Nuthatch,bird
+Mergus merganser_Common Merganser,Mergus merganser,Common Merganser,bird
+Colaptes auratus_Northern Flicker,Colaptes auratus,Northern Flicker,bird
+Spizelloides arborea_American Tree Sparrow,Spizelloides arborea,American Tree Sparrow,bird
+Haemorhous purpureus_Purple Finch,Haemorhous purpureus,Purple Finch,bird
+Larus argentatus_Herring Gull,Larus argentatus,Herring Gull,bird
+Cathartes aura_Turkey Vulture,Cathartes aura,Turkey Vulture,bird
+Cardinalis cardinalis_Northern Cardinal,Cardinalis cardinalis,Northern Cardinal,bird
+Bucephala clangula_Common Goldeneye,Bucephala clangula,Common Goldeneye,bird
+Lophodytes cucullatus_Hooded Merganser,Lophodytes cucullatus,Hooded Merganser,bird
+Bucephala albeola_Bufflehead,Bucephala albeola,Bufflehead,bird
+Dryocopus pileatus_Pileated Woodpecker,Dryocopus pileatus,Pileated Woodpecker,bird
+Columba livia_Rock Pigeon,Columba livia,Rock Pigeon,bird
+Aythya collaris_Ring-necked Duck,Aythya collaris,Ring-necked Duck,bird
+Anas rubripes_American Black Duck,Anas rubripes,American Black Duck,bird
+Spinus pinus_Pine Siskin,Spinus pinus,Pine Siskin,bird
+Haliaeetus leucocephalus_Bald Eagle,Haliaeetus leucocephalus,Bald Eagle,bird
+Acanthis flammea_Common Redpoll,Acanthis flammea,Common Redpoll,bird
+Sayornis phoebe_Eastern Phoebe,Sayornis phoebe,Eastern Phoebe,bird
+Meleagris gallopavo_Wild Turkey,Meleagris gallopavo,Wild Turkey,bird
+Aix sponsa_Wood Duck,Aix sponsa,Wood Duck,bird
+Bonasa umbellus_Ruffed Grouse,Bonasa umbellus,Ruffed Grouse,bird
+Sphyrapicus varius_Yellow-bellied Sapsucker,Sphyrapicus varius,Yellow-bellied Sapsucker,bird
+Regulus satrapa_Golden-crowned Kinglet,Regulus satrapa,Golden-crowned Kinglet,bird
+Certhia americana_Brown Creeper,Certhia americana,Brown Creeper,bird
+Buteo jamaicensis_Red-tailed Hawk,Buteo jamaicensis,Red-tailed Hawk,bird
+Charadrius vociferus_Killdeer,Charadrius vociferus,Killdeer,bird
+Zonotrichia albicollis_White-throated Sparrow,Zonotrichia albicollis,White-throated Sparrow,bird
+Falco sparverius_American Kestrel,Falco sparverius,American Kestrel,bird
+Megaceryle alcyon_Belted Kingfisher,Megaceryle alcyon,Belted Kingfisher,bird
+Gavia immer_Common Loon,Gavia immer,Common Loon,bird
+Molothrus ater_Brown-headed Cowbird,Molothrus ater,Brown-headed Cowbird,bird
+Antigone canadensis_Sandhill Crane,Antigone canadensis,Sandhill Crane,bird
+Ardea herodias_Great Blue Heron,Ardea herodias,Great Blue Heron,bird
+Circus hudsonius_Northern Harrier,Circus hudsonius,Northern Harrier,bird
+Passer domesticus_House Sparrow,Passer domesticus,House Sparrow,bird
+Anas crecca_Green-winged Teal,Anas crecca,Green-winged Teal,bird
+Coccothraustes vespertinus_Evening Grosbeak,Coccothraustes vespertinus,Evening Grosbeak,bird
+Mergus serrator_Red-breasted Merganser,Mergus serrator,Red-breasted Merganser,bird
+Tachycineta bicolor_Tree Swallow,Tachycineta bicolor,Tree Swallow,bird
+Melanerpes carolinus_Red-bellied Woodpecker,Melanerpes carolinus,Red-bellied Woodpecker,bird
+Troglodytes hiemalis_Winter Wren,Troglodytes hiemalis,Winter Wren,bird
+Aythya affinis_Lesser Scaup,Aythya affinis,Lesser Scaup,bird
+Haemorhous mexicanus_House Finch,Haemorhous mexicanus,House Finch,bird
+Scolopax minor_American Woodcock,Scolopax minor,American Woodcock,bird
+Baeolophus bicolor_Tufted Titmouse,Baeolophus bicolor,Tufted Titmouse,bird
+Plectrophenax nivalis_Snow Bunting,Plectrophenax nivalis,Snow Bunting,bird
+Passerella iliaca_Fox Sparrow,Passerella iliaca,Fox Sparrow,bird
+Falco columbarius_Merlin,Falco columbarius,Merlin,bird
+Sialia sialis_Eastern Bluebird,Sialia sialis,Eastern Bluebird,bird
+Spizella passerina_Chipping Sparrow,Spizella passerina,Chipping Sparrow,bird
+Mareca americana_American Wigeon,Mareca americana,American Wigeon,bird
+Catharus guttatus_Hermit Thrush,Catharus guttatus,Hermit Thrush,bird
+Corthylio calendula_Ruby-crowned Kinglet,Corthylio calendula,Ruby-crowned Kinglet,bird
+Nannopterum auritum_Double-crested Cormorant,Nannopterum auritum,Double-crested Cormorant,bird
+Larus marinus_Great Black-backed Gull,Larus marinus,Great Black-backed Gull,bird
+Podilymbus podiceps_Pied-billed Grebe,Podilymbus podiceps,Pied-billed Grebe,bird
+Setophaga coronata_Yellow-rumped Warbler,Setophaga coronata,Yellow-rumped Warbler,bird
+Buteo lagopus_Rough-legged Hawk,Buteo lagopus,Rough-legged Hawk,bird
+Eremophila alpestris_Horned Lark,Eremophila alpestris,Horned Lark,bird
+Melospiza georgiana_Swamp Sparrow,Melospiza georgiana,Swamp Sparrow,bird
+Cygnus olor_Mute Swan,Cygnus olor,Mute Swan,bird
+Clangula hyemalis_Long-tailed Duck,Clangula hyemalis,Long-tailed Duck,bird
+Anas acuta_Northern Pintail,Anas acuta,Northern Pintail,bird
+Podiceps auritus_Horned Grebe,Podiceps auritus,Horned Grebe,bird
+Zonotrichia leucophrys_White-crowned Sparrow,Zonotrichia leucophrys,White-crowned Sparrow,bird
+Aythya marila_Greater Scaup,Aythya marila,Greater Scaup,bird
+Euphagus carolinus_Rusty Blackbird,Euphagus carolinus,Rusty Blackbird,bird
+Pandion haliaetus_Osprey,Pandion haliaetus,Osprey,bird
+Melanitta perspicillata_Surf Scoter,Melanitta perspicillata,Surf Scoter,bird
+Aythya americana_Redhead,Aythya americana,Redhead,bird
+Spatula clypeata_Northern Shoveler,Spatula clypeata,Northern Shoveler,bird
+Melanitta americana_Black Scoter,Melanitta americana,Black Scoter,bird
+Gallinago delicata_Wilson's Snipe,Gallinago delicata,Wilson's Snipe,bird
+Somateria mollissima_Common Eider,Somateria mollissima,Common Eider,bird
+Accipiter striatus_Sharp-shinned Hawk,Accipiter striatus,Sharp-shinned Hawk,bird
+Mareca strepera_Gadwall,Mareca strepera,Gadwall,bird
+Canis latrans_Coyote,Canis latrans,Coyote,mammal
+Odocoileus virginianus_White-tailed Deer,Odocoileus virginianus,White-tailed Deer,mammal
+Sciurus carolinensis_Eastern Gray Squirrel,Sciurus carolinensis,Eastern Gray Squirrel,mammal
+Tamias striatus_Eastern Chipmunk,Tamias striatus,Eastern Chipmunk,mammal
+Tamiasciurus hudsonicus_Red Squirrel,Tamiasciurus hudsonicus,Red Squirrel,mammal
+Dog_Dog,Dog,Dog,mammal
