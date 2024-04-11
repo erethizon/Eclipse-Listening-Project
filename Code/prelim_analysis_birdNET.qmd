@@ -27,7 +27,7 @@ Let's see if we can create a loop that will do it.
 First, create a path to the folder with the data in it. [Here's a good link](http://jenrichmond.rbind.io/post/where-is-here/) that shows basically what I want to do, no loop required.
 
 ```{r}
-filefolder <- normalizePath("/Volumes/NoCo Audio/Eclipse 2024/A002_SD013/NENHC output") #file path to folder with BirdNET output
+filefolder <- normalizePath("/Volumes/NoCo Audio/Eclipse 2024/A021_SD023/NENHC/birdnet/OUTPUT") #file path to folder with BirdNET output
 
 files <- dir(filefolder, pattern = "*.csv")
 
@@ -38,30 +38,16 @@ Now use map() to take the list run read_csv on all of them and bind them togethe
 ```{r, results='hide'}
 #temporarily set working directory to path where files are located
 setwd(filefolder)
-A002_SD013 <- files %>%  
+DF <- files %>%  
   map(read_csv) %>% 
   reduce(rbind)
 
 #return to home directory
 setwd("/Users/barthelmess/Library/CloudStorage/Dropbox/R/Eclipse-Listening-Project")
 ```
-Next see if we can strip the date time from the filename
-
-```{r}
-A002_SD013 <- A002_SD013 %>% mutate(
-  Date_time = substring(filepath, 45, 59)
-)
-```
-Now make into a date
-```{r}
-A002_SD013$Date_time<-ymd_hms(A002_SD013$Date_time)
-```
 
 And write the file so that we don't have to go through all of this again!
 
 ```{r}
-write.csv(A002_SD013, here("Data", "A002_SD013.csv"), row.names = FALSE)
+write.csv(DF, here("Data", "A021_SD023.csv"), row.names = FALSE)
 ```
-
-
-
